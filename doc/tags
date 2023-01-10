@@ -8,6 +8,7 @@ zettelkasten-completefunc	zettelkasten.txt	/*zettelkasten-completefunc*
 zettelkasten-get_all_tags	zettelkasten.txt	/*zettelkasten-get_all_tags*
 zettelkasten-get_back_references	zettelkasten.txt	/*zettelkasten-get_back_references*
 zettelkasten-get_toc	zettelkasten.txt	/*zettelkasten-get_toc*
+zettelkasten-is_in_notes_path	zettelkasten.txt	/*zettelkasten-is_in_notes_path*
 zettelkasten-keyword-expr	zettelkasten.txt	/*zettelkasten-keyword-expr*
 zettelkasten-lua	zettelkasten.txt	/*zettelkasten-lua*
 zettelkasten-maps	zettelkasten.txt	/*zettelkasten-maps*
